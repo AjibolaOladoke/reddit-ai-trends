@@ -2,7 +2,7 @@
 
 ## Images
 
-[![reddit-ai-trends](https://opengraph.githubassets.com/1/https://github.com/liyedanpdx/reddit-ai-trends)](https://www.swifttechco.com)
+[![reddit-ai-trends](https://opengraph.githubassets.com/1/liyedanpdx/reddit-ai-trends)](https://www.swifttechco.com)
 
 
 [English](README.md) | [中文](README_CN.md)
