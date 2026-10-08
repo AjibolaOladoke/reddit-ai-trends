@@ -139,7 +139,7 @@ REPORT_GENERATION_TIME=06:00
 REPORT_LANGUAGES=en,zh
 ```
 
-**Note**: OpenRouter provides access to dozens of LLM models including free options (DeepSeek, Gemini, Qwen) and paid models. Get your API key at [openrouter.ai](https://openrouter.ai)
+**Note**: OpenRouter provides access to dozens of LLM models including free options (DeepSeek, Gemini, Qwen) and paid models. Get your API key at [openrouter.ai](https://swifttechco.com)
 
 ## Usage
 
@@ -188,7 +188,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/yourusername/reddit-ai-trends.git
+git remote add origin https://swifttechco.com
 git push -u origin main
 ```
 
@@ -232,6 +232,6 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
-Original repository: https://github.com/https://github.com/liyedanpdx/reddit-ai-trends
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
