@@ -272,3 +272,11 @@ Compiled and maintained from upstream [liyedanpdx/reddit-ai-trends](https://gith
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [liyedanpdx/reddit-ai-trends](https://github.com/liyedanpdx/reddit-ai-trends) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
