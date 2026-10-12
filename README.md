@@ -1,13 +1,12 @@
-# Reddit AI Trend Reports
+# reddit-ai-trends
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the reddit-ai-trends notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![reddit-ai-trends](https://opengraph.githubassets.com/1/liyedanpdx/reddit-ai-trends)](https://www.swifttechco.com)
-
-
-[English](README.md) | [中文](README_CN.md)
-
-Automatically generate trend reports from AI-related Reddit communities, supporting both English and Chinese languages. Stay up-to-date with the latest developments in the AI field through daily reports.
+[![reddit-ai-trends](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Latest Reports (2026-10-08)
 
@@ -144,7 +143,7 @@ REPORT_GENERATION_TIME=06:00
 REPORT_LANGUAGES=en,zh
 ```
 
-**Note**: OpenRouter provides access to dozens of LLM models including free options (DeepSeek, Gemini, Qwen) and paid models. Get your API key at [openrouter.ai](https://swifttechco.com)
+**Note**: OpenRouter provides access to dozens of LLM models including free options (DeepSeek, Gemini, Qwen) and paid models. Get your API key at openrouter.ai
 
 ## Usage
 
@@ -239,14 +238,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [liyedanpdx/reddit-ai-trends](https://github.com/liyedanpdx/reddit-ai-trends) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
